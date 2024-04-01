@@ -1,6 +1,6 @@
 # About
 
-This program examines most efficient algorithms for finding the maximum matching in bipartite graphs and compares them.
+This program examines most efficient algorithms (Ford–Fulkerson, Hungarian and Hungarian+ algorithms) for finding the maximum matching in bipartite graphs and compares them.
 
 # Theory
 
